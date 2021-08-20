@@ -1,0 +1,3 @@
+github代码链接：https://github.com/Sun-Yize-SDUWH/Deep-Learning-On-Raspberry-Pi-Zero
+知乎文档链接：https://www.zhihu.com/column/c_1326223429637902336
+b站视频链接：https://www.bilibili.com/video/BV12a4y1n7MW
