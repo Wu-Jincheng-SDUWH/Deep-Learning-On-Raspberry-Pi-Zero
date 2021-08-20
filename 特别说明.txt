@@ -1,0 +1,5 @@
+文档中部分文件名以简写的方式命名，具体对应如下：
+ic：图像分类相关代码（image classification）
+od：目标检测相关代码（object detection）
+server：服务器相关代码
+pi：树莓派相关代码（raspberry pi）
